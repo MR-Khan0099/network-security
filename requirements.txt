@@ -1,10 +1,12 @@
 python-dotenv
 pandas
 numpy
+pymongo
+certifi
+requests
 
 
-
-
+##-e . # while installing the requirements, -e . refers to setup.py and project as a package
 
 
 
